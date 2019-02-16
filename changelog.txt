@@ -1,1 +1,5 @@
 Updated to 1.12.2
+====== TickDynamic_2019 =====
+version 1.0.3
+- update forge to 14.23.5.2768
+- fix console debug spamming
