@@ -36,6 +36,7 @@ import java.util.concurrent.Semaphore;
 /**
  * @author Wildex999 ( wildex999@gmail.com )
  * @author The_Fireplace ( the.f1repl4ce@gmail.com )
+ * @author Big_Energy ( fixes, forge update )
  * Later ideas:
  * - Entities far away from players tick less often.
  * - Entities and TileEntities grouped by owner(Player), and limits can be set per player.

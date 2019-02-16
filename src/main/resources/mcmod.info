@@ -1,13 +1,13 @@
 [
 {
   "modid": "tickdynamic",
-  "name": "Tick Dynamic",
+  "name": "Tick Dynamic 2019",
   "description": "Dynamic control of the world tickrate to reduce apparent lag.",
   "version": "${version}",
   "mcversion": "1.12.2",
   "url": "https://mods.curse.com/mc-mods/minecraft/269359-tick-dynamic",
   "updateUrl": "https://mods.curse.com/mc-mods/minecraft/269359-tick-dynamic",
-  "authorList": ["The_Fireplace","Wildex999"],
+  "authorList": ["The_Fireplace","Wildex999", "Big_Energy"],
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
